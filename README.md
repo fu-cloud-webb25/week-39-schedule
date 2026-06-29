@@ -3,13 +3,16 @@
 
 ## Introduktion
 
+Den sista undervisningsveckan knyter ihop hela kursen. Nu flyttar vi fokus från enskilda AWS-tjänster till den färdiga lösningen och tittar på hur frontend och backend samverkar i en modern molnarkitektur.
 
-
+Vi lär oss hur en frontendapplikation driftsätts i molnet och hur hela leveranskedjan ser ut – från kod på GitHub till en färdig webbplats som kommunicerar med ett serverless API. Vi diskuterar även hur lösningar kan underhållas, vidareutvecklas och automatiseras med hjälp av moderna utvecklingsflöden.
 
 ## Mål för veckan:
 
-1. 
-
+1. Förstå hur frontendapplikationer driftsätts i molnet.
+2. Deploya en frontendapplikation till AWS.
+3. Förstå hur frontend och backend integreras.
+4. Förstå den kompletta leveranskedjan från utveckling till produktion.
 
 ## Resurser
 
