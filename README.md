@@ -37,4 +37,5 @@ Vi lär oss hur en frontendapplikation driftsätts i molnet och hur hela leveran
 
 ### Övningar 
 
+* [Deployment Bootcamp](https://github.com/fu-cloud-webb25/week-39-exercise-deployment-bootcamp)
 
