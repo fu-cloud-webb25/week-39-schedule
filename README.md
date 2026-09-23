@@ -33,7 +33,7 @@ Vi lär oss hur en frontendapplikation driftsätts i molnet och hur hela leveran
 
 ### Länkar
 
-* []()
+* [Guthub Actions instructions](https://github.com/fu-cloud-webb25/week-39-instructions-github-actions-s3-pipeline)
 
 ### Övningar 
 
