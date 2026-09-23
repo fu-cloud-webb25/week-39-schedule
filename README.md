@@ -23,6 +23,7 @@ Vi lär oss hur en frontendapplikation driftsätts i molnet och hur hela leveran
 ### Inspelade föreläsningar
 
 * [React & S3, 21 sept](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCGx8Y8AMSDT4VFhGoZIZ_lAXJydlkM5YwK7CrUrgafwzo?e=rJpExh)
+* [Github Actions & CloudFront](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBkh20QNlxPR4M5jctYAghwAZ6uPqMkq1CNKiu-OR5w-Vo?e=vFr15M)
 
 ### Lektionsrepon
 
